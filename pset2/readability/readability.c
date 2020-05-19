@@ -79,4 +79,4 @@ int count_sentences(string text_get)
     }
     return total_sentences;
 }
-
+//end of code
