@@ -17,9 +17,9 @@ Project video link  https://youtu.be/5MsYlnNatGs
 
 # Screenshots
   <p align="center">
-<img src="https://github.com/husbycodereis/husbycodereis/blob/master/images/Cinegame-base.png" width="200" height="500">
-  <img src="https://github.com/husbycodereis/husbycodereis/blob/master/images/Cinegame-base.png" width="200" height="500">
-  <img src="https://github.com/husbycodereis/husbycodereis/blob/master/images/Cinegame-base.png" width="200" height="500">
+<img src="https://github.com/husbycodereis/husbycodereis/blob/master/images/Cinegame-base.png" width="250" height="500">
+  <img src="https://github.com/husbycodereis/husbycodereis/blob/master/images/Cinegame-search.png" width="250" height="500">
+  <img src="https://github.com/husbycodereis/husbycodereis/blob/master/images/Cinegame-details.png" width="250" height="500">
 </p>
 
 
