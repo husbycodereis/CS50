@@ -56,7 +56,7 @@ https://github.com/zubairehman/flutter-boilerplate-project.git
 # CS50x Certificate:
 
 <p align="center">
-<img src="https://github.com/husbycodereis/CS50/blob/master/CS50x-Certificate.png" width="400" height="500">
+<img src="https://github.com/husbycodereis/CS50/blob/master/CS50x-Certificate.png" width="800" height="800">
 </p>
-Credits:  https://resocoder.com/flutter-clean-architecture-tdd/
+
 
