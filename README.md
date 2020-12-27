@@ -1,4 +1,4 @@
-# CS50 final project
+# CS50 final project - CINEGAME
 
 
 * Search in a movie database to see if matching movie has a playable video game
@@ -55,7 +55,7 @@ https://github.com/zubairehman/flutter-boilerplate-project.git
 
 # CS50x Certificate:
 
-<p align="center">
+<p align="fit">
 <img src="https://github.com/husbycodereis/CS50/blob/master/CS50x-Certificate.png" width="400" height="500">
 </p>
 Credits:  https://resocoder.com/flutter-clean-architecture-tdd/
