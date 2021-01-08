@@ -15,7 +15,7 @@
 * Delete current user
 
 Project video [link](https://youtu.be/5MsYlnNatGs)
-More (information)(https://codereis.com/project/cinegamely/) 
+More [information](https://codereis.com/project/cinegamely/) 
 
 # Screenshots
   <p align="center">
