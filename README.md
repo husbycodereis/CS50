@@ -1,7 +1,7 @@
 
 # CS50 final project - CINEGAME
 
-  <p align="center">
+
 <img src="https://github.com/husbycodereis/husbycodereis/blob/master/images/cinegamely_project.png" width ="750">
 
 * Search in a movie database to see if matching movie has a playable video game
