@@ -39,16 +39,16 @@ Detailed project [information](https://codereis.com/project/cinegamely/)
 # Technical Information
 
 
-* Framework used in the project => Flutter
-* Programming language of the framework => Dart
-* Authentication method => Firebase
+* Framework => Flutter
+* Language  => Dart
+* Design tool ==> Figma
+* Authentication => Firebase
 * Database => Cloud Firestore
 * Architecture => Clean Architecture
-* State management => MobX & Provider  https://mobx.netlify.app/ & https://pub.dev/packages/provider
-* HTTP request package => Dio
-* Database for movies => The movie database / https://www.themoviedb.org/
-* Database for video games => The internet game database / https://www.igdb.com/
-* Localization method => Applocalization
+* State management =>  [MobX](https://mobx.netlify.app/) & [Provider](https://pub.dev/packages/provider)
+* HTTP request => Dio package
+* Database for movies => [The movie database](https://www.themoviedb.org/)
+* Database for video games => [The internet game database](https://www.igdb.com/)
 
 # Clean Architecture for Flutter applications:
 
