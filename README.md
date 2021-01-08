@@ -3,7 +3,7 @@
 
   <p align="center">
 <img src="https://github.com/husbycodereis/husbycodereis/blob/master/images/cinegamely_project.png" width ="750">
-  </p>
+
 * Search in a movie database to see if matching movie has a playable video game
 * Search in a video game database to see if matching game has a watchable movie
 * Discover top movies, tv shows and games
