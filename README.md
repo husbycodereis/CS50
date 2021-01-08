@@ -22,9 +22,11 @@ Detailed project [information](https://codereis.com/project/cinegamely/)
 
 # Screenshots
   <p align="center">
-<img src="https://github.com/husbycodereis/husbycodereis/blob/master/images/Cinegame-base.png" width="250" height="500">
-  <img src="https://github.com/husbycodereis/husbycodereis/blob/master/images/Cinegame-search.png" width="250" height="500">
-  <img src="https://github.com/husbycodereis/husbycodereis/blob/master/images/Cinegame-details.png" width="250" height="500">
+<img src="https://github.com/husbycodereis/husbycodereis/blob/master/images/search1.png" width="250" height="500">
+  <img src="https://github.com/husbycodereis/husbycodereis/blob/master/images/search2.png" width="250" height="500">
+  <br>
+  <img src="https://github.com/husbycodereis/husbycodereis/blob/master/images/details1.png" width="250" height="500">
+  <img src="https://github.com/husbycodereis/husbycodereis/blob/master/images/details2.png" width="250" height="500">
 </p>
 
 
