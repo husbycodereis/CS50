@@ -27,6 +27,12 @@ Detailed project [information](https://codereis.com/project/cinegamely/)
   <br>
   <img src="https://github.com/husbycodereis/husbycodereis/blob/master/images/details1.png" width="250" height="500">
   <img src="https://github.com/husbycodereis/husbycodereis/blob/master/images/details2.png" width="250" height="500">
+   <br>
+  <img src="https://github.com/husbycodereis/husbycodereis/blob/master/images/list1.png" width="250" height="500">
+  <img src="https://github.com/husbycodereis/husbycodereis/blob/master/images/list2.png" width="250" height="500">
+   <br>
+  <img src="https://github.com/husbycodereis/husbycodereis/blob/master/images/settings1.png" width="250" height="500">
+  <img src="https://github.com/husbycodereis/husbycodereis/blob/master/images/settings2.png" width="250" height="500">
 </p>
 
 
